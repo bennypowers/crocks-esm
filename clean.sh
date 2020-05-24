@@ -35,3 +35,4 @@ rm index.js.map
 rm -rf logic
 rm -rf pointfree
 rm -rf predicates
+rm ./*.tgz
